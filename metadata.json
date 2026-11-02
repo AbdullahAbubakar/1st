@@ -1,0 +1,8 @@
+{
+  "name": "BudgetPulse",
+  "description": "A clean, intuitive personal budget tracker to manage expenses, set category limits, and track spending trends in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
